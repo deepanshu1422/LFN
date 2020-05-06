@@ -329,6 +329,13 @@ Code
 
 
 
+References :-
 
+https://github.com/zgrossbart/jdd
+https://nose.readthedocs.org/en/latest/
+https://github.com/monsur/jsoncompare/blob/master/jsoncompare
+https://learning.postman.com/docs/postman/scripts/test-scripts/
+https://github.com/percolate/jsonmatch
+https://www.datacamp.com/community/tutorials/json-data-python
 
     
