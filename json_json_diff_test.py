@@ -315,7 +315,7 @@ class JsonJsonDiffTest(TestHelper):
         for the first item in the new list if there is anything that can match
         at all, even if there is a better match elsewhere
         """
-        # todo fix this bug in matching
+        
 
         new_file = self.write_string_to_file('[{"key1":"value1"},'
                                              '{"key1":"value1",'
