@@ -1,11 +1,10 @@
 # LFN
 Task given by Liang Sir
+**Verify the resource configuration of a type of hardware server.**
 
-Verify the resource configuration of a type of hardware server.
+Mentor   **CHEN Liang**
 
-Mentor   CHEN Liang
-
-Mentee  Deepanshu Udhwani
+Mentee  **Deepanshu Udhwani**
 
   
   
@@ -207,3 +206,129 @@ All the
 > OK
 
  signifies each unit test passes and the software is ready to go!
+
+
+Code 
+
+    
+
+> 1.json
+
+    {
+    
+    "PowerControl": [{
+    
+    "PowerConsumedWatts": "N/A",
+    
+    "Status": {
+    
+    "Health": "OK",
+    
+    "State": "Enabled"
+    
+    }
+    
+    }],
+    
+    "PowerSupplies": [{
+    
+    "LineInputVoltage": "N/A",
+    
+    "MemberId": "1",
+    
+    "PowerCapacityWatts": 800,
+    
+    "Status": {
+    
+    "Health": "OK",
+    
+    "State": "Enabled"
+    
+    }
+    
+    },
+    
+    {
+    
+    "LineInputVoltage": "N/A",
+    
+    "MemberId": "2",
+    
+    "PowerCapacityWatts": 800,
+    
+    "Status": {}
+    
+    }
+    
+    ]
+    
+    }
+
+ 
+> `2.json`
+
+    
+
+{
+    
+    "PowerControl": [{
+    
+    "PowerConsumedWatts": "N/A",
+    
+    "Status": {
+    
+    "Health": "OK",
+    
+    "State": "Enabled"
+    
+    }
+    
+    }],
+    
+    "PowerSupplies": [{
+    
+    "LineInputVoltage": "N/A",
+    
+    "MemberId": "1",
+    
+    "PowerCapacityWatts": 800,
+    
+    "Status": {
+    
+    "Health": "OK",
+    
+    "State": "Enabled"
+    
+    }
+    
+    },
+    
+    {
+    
+    "LineInputVoltage": "N/A",
+    
+    "MemberId": "2",
+    
+    "PowerCapacityWatts": 800,
+    
+    "Status": {}
+    
+    }
+    
+    ]
+    
+    }
+
+> `jsondiff.py`
+
+    [Jsondiff.py](https://github.com/deepanshu1422/LFN/blob/master/jsondiff.py)
+
+> `json_json_diff_test.py`
+
+    [Jjson_json_diff_test.py](https://github.com/deepanshu1422/LFN/blob/master/json_json_diff_test.py)
+
+
+
+
+
+    
