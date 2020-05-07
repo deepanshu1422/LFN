@@ -1,6 +1,6 @@
 #Sir,Few of the test cases are taken from http://www.jsondiff.com/index-test.html
 #And ,https://docs.deltaxml.com/json-compare/latest/testing-with-postman-13304485.html
-#I've taken care that they are either having Apache 2.0 licence or MIT
+#I've taken care that they are either having Apache 2.0 licence or GNU 
 
 #!/usr/bin/env python
 import sys
