@@ -2,8 +2,8 @@
 	"PowerControl": [{
 		"PowerConsumedWatts": "N/A",
 		"Status": {
-			"Health": "OK",
-			"State": "Enabled"
+			"Health": "NotOK",
+			"State": "Disabled"
 			
 		}
 	}],
