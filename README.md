@@ -1,5 +1,6 @@
 # LFN
 Task given by Liang Sir
+https://deepanshu1422.github.io/LFN/
 **Verify the resource configuration of a type of hardware server.**
 
 Mentor   **CHEN Liang**
