@@ -93,11 +93,8 @@ Once you have installed these files , you are ready to go :)
 
 Open files 1.json and 2.json to verify the contents
 
-Example :
 
-File 1(1.json) File 2(2.json) ![](https://lh5.googleusercontent.com/i6lwsW3z52IRWkOo-3Umo16UysUQCGfWfKB_kf4RRtcKtka2ZjsmWJPXQPhwG5IYxnZExrdM5esnZ9TlCieLofyLYIyztXlsNVKEHpIl2vwzvjz8Kdea1eJYwRvZMnR01ZIGfxND)![](https://lh3.googleusercontent.com/nfAC0pVX77POxPkUfBSDIyWoah78fqSm6x2Yf2zYk-ryuBKdaQMnCGssBxlvIhKXmGx5ukZt-gHCJG332SM38D6dp83ULwtIsmEx0dh0wsoKf1lyukMkrmdDBsZn37KX4VkMM6Pi)
-
-  
+ 
   
 
 Open a terminal/cmd/PowerShell window and `cd` to the code directory
